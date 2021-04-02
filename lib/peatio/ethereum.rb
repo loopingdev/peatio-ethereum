@@ -1,9 +1,9 @@
-require "peatio/ethereum/version"
+require "peatio/bsc/version"
 require "pry-byebug"
 require "peatio"
 
 module Peatio
-  module Ethereum
+  module bsc
     # Your code goes here...
   end
 end
