@@ -1,5 +1,5 @@
 module Peatio
-  module Ethereum
+  module bsc
     VERSION = "0.1.0"
   end
 end
